@@ -1,1 +1,1 @@
-## ETL pipeline with PostgreSQL connection
+## ETL pipeline with PostgreSQL connection (tutorial)
